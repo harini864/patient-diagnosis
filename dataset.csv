@@ -1,0 +1,6 @@
+Fever,Cough,Headache,Fatigue,Sugar,Age,Weight,Cold,BP,Disease
+1,1,0,1,130,45,65,0,120,COVID-19
+1,1,1,0,110,38,55,1,118,Flu
+0,1,1,0,105,50,75,1,130,Cold
+0,0,1,1,90,25,60,0,115,Migraine
+1,0,0,1,150,40,70,0,125,Typhoid
